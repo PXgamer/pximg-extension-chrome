@@ -1,5 +1,7 @@
 # pximg-extension-chrome
 
+Upload images to PXIMG from any site.
+
 ## Install
 This extension can either be installed via the [Chrome Web Store](https://chrome.google.com/webstore/detail/hlhcihnkemdohmnnnapmgbaoodphadol) or by installing via Chrome as an unpacked extension.
 
