@@ -2,7 +2,7 @@
 
 Upload images to PXIMG from any site.
 
-[![GitHub release](https://img.shields.io/github/release/PXgamer/pximg-extension-chrome.svg)](https://github.com/PXgamer/pximg-extension-chrome/releases/latest) [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/PXgamer/pximg-extension-chrome.svg)](https://scrutinizer-ci.com/g/PXgamer/pximg-extension-chrome/build-status/master)
+[![GitHub release](https://img.shields.io/github/release/PXgamer/pximg-extension-chrome.svg)](https://github.com/PXgamer/pximg-extension-chrome/releases/latest) [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/PXgamer/pximg-extension-chrome.svg)](https://scrutinizer-ci.com/g/PXgamer/pximg-extension-chrome/build-status/master) ![Scrutinizer](https://img.shields.io/scrutinizer/g/PXgamer/pximg-extension-chrome.svg)
 
 ## Install
 This extension can either be installed via the [Chrome Web Store](https://chrome.google.com/webstore/detail/hlhcihnkemdohmnnnapmgbaoodphadol) or by installing via Chrome as an unpacked extension.
