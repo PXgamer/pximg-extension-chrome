@@ -1,0 +1,23 @@
+{
+   "author": "PXgamer",
+   "background": {
+      "scripts": [ "pximg.js" ]
+   },
+   "description": "Upload images to PXIMG.",
+   "icons": {
+      "128": "icon_128x128.png",
+      "16": "icon_16x16.png",
+      "48": "icon_48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzv71470j0jGVlhJrq3d129aiqywYnJuZfMtAL8zKIK6tO8n2Nl+GpcvnxeXXaQQ40U1Ufn8wyt6Cyi3nv6/HzmmU633DdgLhk0xBETjdBtiHMa4BiDRfcaffo0Sc0qR7BFndiKBs5bwr5hoPeKeO8ghOsrxFXwv0zWc+pj5ePKGIKVEtf5gZ5XAhfmk7+vyV1rGet/0U8BXb0dV6NMuvpy158GKsBzEbppum/0XqqbMbdZVm65oyVHifc3fZ0sy8p4rFFOVPDqWsMFl56vYWmYxzQc2CRPmJW8rD/jBe+BproewN2T/Qt/0OMxzR3LDFvRIBtkmDYp7ngVgWx8XSpQIDAQAB",
+   "manifest_version": 2,
+   "name": "PXIMG",
+   "options_page": "options.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "notifications", "https://pximg.xyz/*", "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}
