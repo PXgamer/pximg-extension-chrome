@@ -38,7 +38,6 @@ function sendData(info) {
 }
 
 function pximg(response) {
-    console.log(response);
     if (response.Status) {
         returnData = response.Response.url;
         chrome.notifications.create(
