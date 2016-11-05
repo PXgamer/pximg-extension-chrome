@@ -1,3 +1,5 @@
+/** global: chrome */
+/** global: XMLHttpRequest */
 var api_key = '';
 var returnData = '';
 chrome.storage.sync.get({
@@ -39,7 +41,6 @@ function pximg(response) {
     console.log(response);
     if (response.Status) {
         returnData = response.Response.url;
-        console.info(returnData);
         chrome.notifications.create(
             "PXIMG",
             {
