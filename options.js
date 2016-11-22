@@ -1,3 +1,5 @@
+var background = chrome.extension.getBackgroundPage();
+
 /** global: chrome */
 function save_options() {
     var api_key = document.getElementById('api_key').value;
@@ -10,6 +12,7 @@ function save_options() {
             status.textContent = '';
         }, 1500);
     });
+	background.api_key = api_key;
 }
 
 function restore_options() {
