@@ -19,5 +19,5 @@
    },
    "permissions": [ "activeTab", "notifications", "https://pximg.xyz/*", "contextMenus", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.2"
+   "version": "1.0.3"
 }
